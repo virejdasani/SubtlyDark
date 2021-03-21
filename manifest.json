@@ -1,7 +1,7 @@
 {
     "name": "Subtly Dark",
     "version": "1.0",
-    "description": "A subtle, dark theme",
+    "description": "A subtle, dark theme for your browser",
     "manifest_version": 2,
     "theme": {
         "images": {
